@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Repeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\exemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|solutionrelative:exemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Repeticao||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\exemplo05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|solutionrelative:exemplo05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|solutionrelative:exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D37ADC2-12A7-403C-A937-B1962909E03E}|Repeticao.csproj|c:\\users\\aluno\\desktop\\repeticao\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exemplo05.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo05.cs",
+              "RelativeDocumentMoniker": "Exemplo05.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo05.cs",
+              "RelativeToolTip": "Exemplo05.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:04:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exemplo04.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo04.cs",
+              "RelativeDocumentMoniker": "Exemplo04.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo04.cs",
+              "RelativeToolTip": "Exemplo04.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:49:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-15T18:01:23.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repeticao",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Repeticao.csproj",
+              "RelativeDocumentMoniker": "Repeticao.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Repeticao.csproj",
+              "RelativeToolTip": "Repeticao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T18:15:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exemplo03.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo03.cs",
+              "RelativeDocumentMoniker": "Exemplo03.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Exemplo03.cs",
+              "RelativeToolTip": "Exemplo03.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:13:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Repeticao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:08:20.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
